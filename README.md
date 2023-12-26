@@ -13,7 +13,6 @@ This is a simple chat application built using Spring Boot. It allows users to cr
 ## Technologies Used
 
 - Spring Boot
-- Spring Data JPA
 - Spring Web
 
 ## Entity Classes
